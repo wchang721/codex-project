@@ -1,0 +1,63 @@
+:root {
+  color-scheme: light;
+  --paper: #faf9f5;
+  --ink: #24342f;
+  --muted: #4d5b55;
+  --accent: #285345;
+  --line: #cbd3cc;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+a { color: var(--accent); text-underline-offset: 0.2em; }
+a:hover { text-decoration-thickness: 0.15em; }
+:focus-visible { outline: 3px solid #805400; outline-offset: 4px; }
+.shell { width: min(100% - 2rem, 68rem); margin-inline: auto; }
+.skip-link {
+  position: absolute;
+  top: 0.5rem;
+  left: 1rem;
+  padding: 0.6rem 1rem;
+  background: white;
+  z-index: 2;
+  transform: translateY(-200%);
+}
+.skip-link:focus { transform: translateY(0); }
+.site-header { padding-block: 1.5rem; border-bottom: 1px solid var(--line); }
+.site-name { font-weight: 650; text-decoration: none; }
+nav ul { display: flex; flex-wrap: wrap; gap: 0.25rem 0.75rem; padding: 0; margin-bottom: 0; list-style: none; }
+nav a { display: inline-block; padding: 0.5rem 0.25rem; }
+nav a[aria-current="page"] { font-weight: 700; text-decoration-thickness: 0.15em; }
+.page { padding-block: 2.5rem 4rem; }
+.hero { padding-block: 1rem 2.5rem; max-width: 48rem; }
+h1, h2, h3 { line-height: 1.25; font-weight: 600; }
+h1 { font-size: clamp(2.1rem, 6vw, 3.7rem); letter-spacing: -0.025em; margin: 0 0 1.25rem; }
+h2 { font-size: clamp(1.5rem, 3vw, 2rem); margin: 0 0 1rem; }
+h3 { font-size: 1.2rem; margin-top: 0; }
+p { max-width: 65ch; }
+.intro { font-size: 1.2rem; color: var(--muted); }
+section { padding-block: 2.5rem; border-top: 1px solid var(--line); scroll-margin-top: 1rem; }
+.actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1.5rem; }
+.button { display: inline-block; padding: 0.7rem 1.15rem; border: 1px solid var(--accent); border-radius: 0.25rem; font-weight: 600; }
+.hero .button:first-child { background: var(--accent); color: white; }
+.meeting-list { display: grid; gap: 1rem; padding: 0; list-style: none; }
+.meeting-list li { padding: 1.5rem; background: white; border: 1px solid var(--line); border-radius: 0.25rem; }
+.meeting-list p { margin-bottom: 0; }
+.faith-list { max-width: 70ch; padding-left: 1.75rem; }
+.faith-list li { padding-left: 0.4rem; margin-bottom: 1.25rem; }
+address { font-style: normal; }
+.site-footer { padding-block: 2.5rem; background: #edf0e9; border-top: 1px solid var(--line); }
+.footer-name { font-weight: 650; }
+@media (min-width: 42rem) {
+  .shell { width: min(100% - 4rem, 68rem); }
+  .page { padding-top: 4rem; }
+  .meeting-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}

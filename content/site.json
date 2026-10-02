@@ -1,0 +1,40 @@
+{
+  "name": "Church Assembly in Westminster",
+  "production_origin": "https://www.caiwhome.org",
+  "address": {
+    "street": "8912 Hazard Ave",
+    "locality": "Westminster, CA 92683"
+  },
+  "phone": "714-894-9424",
+  "phone_href": "tel:+17148949424",
+  "sources": [
+    {
+      "url": "https://www.caiwhome.org/",
+      "retrieved_on": "2026-10-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/weekly-schedule",
+      "retrieved_on": "2026-10-02"
+    }
+  ],
+  "sunday_meetings": [
+    {
+      "name": "Breaking of Bread",
+      "start": "10:00",
+      "end": "10:50",
+      "location": "Meeting Hall"
+    },
+    {
+      "name": "Sunday Message",
+      "start": "11:00",
+      "end": "12:15",
+      "location": "Meeting Hall"
+    }
+  ],
+  "review_notes": [
+    "[Content needed] Confirm that the published Sunday schedule is operationally current.",
+    "[Content needed] Confirm the time zone; none is inferred in generated content.",
+    "[Content needed] Confirm weekday meeting conflicts before publication.",
+    "[Content needed] Confirm email/contact destination, parking, accessibility, languages, and first-visit guidance."
+  ]
+}

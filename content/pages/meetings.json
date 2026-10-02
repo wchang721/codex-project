@@ -1,0 +1,47 @@
+{
+  "slug": "meetings",
+  "sources": [
+    {
+      "url": "https://www.caiwhome.org/weekly-schedule",
+      "retrieved_on": "2026-10-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/announcements",
+      "retrieved_on": "2026-10-02"
+    }
+  ],
+  "label": "Meetings",
+  "title": "Meetings | Church Assembly in Westminster",
+  "description": "Published Sunday meeting times and meeting location for Church Assembly in Westminster.",
+  "heading": "Meetings",
+  "intro": "Sunday meetings at Church Assembly in Westminster.",
+  "sections": [
+    {
+      "kind": "meetings",
+      "heading": "Sunday schedule"
+    },
+    {
+      "kind": "text",
+      "heading": "Before your visit",
+      "paragraphs": [
+        "Please call 714-894-9424 to confirm meeting details before visiting."
+      ],
+      "actions": [
+        {
+          "label": "Visit Us",
+          "href": "/visit-us/"
+        },
+        {
+          "label": "Contact",
+          "href": "/contact/"
+        }
+      ]
+    }
+  ],
+  "review_notes": [
+    "[Content needed] Sister Bible Study is Wednesday 10:00 AM–12:00 PM on Weekly Schedule, but Announcements reads 星期三 Thursday at 10:00 AM. Do not resolve the weekday silently.",
+    "[Content needed] Weekly Schedule has an empty Fryday row, while Announcements lists Friday English Online Bible Study at 7:30 PM.",
+    "[Content needed] Confirm Tuesday prayer times, Saturday study groups, Gospel Meeting third-week convention, online/in-person attendance, and languages. Weekday information is withheld from generated pages until reviewed.",
+    "[Content needed] Confirm whether Sunday lunch at 12:15 PM should appear in visitor guidance."
+  ]
+}

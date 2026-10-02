@@ -1,0 +1,20 @@
+{
+  "events": [],
+  "review_notes": [
+    "[Content needed] Church-confirmed upcoming events with explicit dates and time zone. No future events were verified. Historical 2024/2025 schedules must not be presented as upcoming. Events are not rendered in Phase 1."
+  ],
+  "sources": [
+    {
+      "url": "https://www.caiwhome.org/",
+      "retrieved_on": "2026-10-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/conference",
+      "retrieved_on": "2026-10-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/announcements",
+      "retrieved_on": "2026-10-02"
+    }
+  ]
+}

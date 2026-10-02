@@ -1,0 +1,23 @@
+{
+  "slug": "contact",
+  "sources": [
+    {
+      "url": "https://www.caiwhome.org/",
+      "retrieved_on": "2026-10-02"
+    }
+  ],
+  "label": "Contact",
+  "title": "Contact | Church Assembly in Westminster",
+  "description": "Contact Church Assembly in Westminster by phone at 714-894-9424 or find its Westminster meeting location.",
+  "heading": "Contact",
+  "intro": "Church Assembly in Westminster",
+  "sections": [
+    {
+      "kind": "contact",
+      "heading": "Phone and location"
+    }
+  ],
+  "review_notes": [
+    "[Content needed] Verified email address or contact-form destination. No email address or form is invented."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "visit-us",
+  "sources": [
+    {
+      "url": "https://www.caiwhome.org/",
+      "retrieved_on": "2026-10-02"
+    }
+  ],
+  "label": "Visit Us",
+  "title": "Visit Us | Church Assembly in Westminster",
+  "description": "Find Church Assembly in Westminster at 8912 Hazard Ave, Westminster, CA 92683, and view Sunday meeting information.",
+  "heading": "Visit Us",
+  "intro": "Church Assembly in Westminster · 8912 Hazard Ave, Westminster, CA 92683",
+  "sections": [
+    {
+      "kind": "contact",
+      "heading": "Directions",
+      "id": "directions"
+    },
+    {
+      "kind": "meetings",
+      "heading": "Sunday meetings"
+    },
+    {
+      "kind": "text",
+      "heading": "Questions before visiting?",
+      "paragraphs": [
+        "Please call 714-894-9424 to confirm meeting details before visiting."
+      ],
+      "actions": [
+        {
+          "label": "Contact",
+          "href": "/contact/"
+        }
+      ]
+    }
+  ],
+  "review_notes": [
+    "[Content needed] Verified what-to-expect guidance, parking, building accessibility, and language arrangements."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "about",
+  "sources": [
+    {
+      "url": "https://www.caiwhome.org/",
+      "retrieved_on": "2026-10-02"
+    }
+  ],
+  "label": "About",
+  "title": "About | Church Assembly in Westminster",
+  "description": "The name, location, and Statement of Faith of Church Assembly in Westminster.",
+  "heading": "About the assembly",
+  "intro": "Church Assembly in Westminster is located in Westminster, California.",
+  "sections": [
+    {
+      "kind": "text",
+      "heading": "Our assembly",
+      "paragraphs": [
+        "Church Assembly in Westminster",
+        "8912 Hazard Ave, Westminster, CA 92683"
+      ],
+      "actions": [
+        {
+          "label": "Read our Statement of Faith",
+          "href": "/beliefs/"
+        },
+        {
+          "label": "View Meetings",
+          "href": "/meetings/"
+        }
+      ]
+    }
+  ],
+  "review_notes": [
+    "[Content needed] Church history, approved introduction, and authentic original vision content. No /vision page or replacement statement is created."
+  ]
+}
