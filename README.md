@@ -6,6 +6,8 @@ A minimal starting point for a Python project, organized for incremental develop
 
 The repository contains a source package and an automated package import test. Application features, a framework, and third-party dependencies have not been added yet.
 
+The planned Church Assembly in Westminster website rebuild is documented in [the website audit and foundation plan](docs/website-plan.md). Public-site inspection is currently blocked by the environment's network policy; website implementation and deployment instructions are pending that inspection.
+
 ## Local development
 
 Use Python 3.12 or newer. No dependency installation or external services are required. Run commands from the repository root.
