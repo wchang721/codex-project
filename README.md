@@ -6,7 +6,7 @@ A minimal starting point for a Python project, organized for incremental develop
 
 The repository contains a source package and an automated package import test. Application features, a framework, and third-party dependencies have not been added yet.
 
-The planned Church Assembly in Westminster website rebuild is documented in [the website audit and foundation plan](docs/website-plan.md). Public-site inspection is currently blocked by the environment's network policy; website implementation and deployment instructions are pending that inspection.
+The planned Church Assembly in Westminster website rebuild is documented in [the website audit and foundation plan](docs/website-plan.md). Public-site HTML inspection is complete, with a [source inventory](docs/source-inventory.json) and [original Statement of Faith](docs/statement-of-faith-source.md). Website implementation remains paused pending the next development task; schedule conflicts and other unverified content are recorded in the audit.
 
 ## Local development
 

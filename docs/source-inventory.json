@@ -1,0 +1,3052 @@
+{
+  "retrieved_on": "2026-10-02",
+  "scope": "Same-site sitemap pages and discovered HTML links; no browser rendering, external media fetch, or robots-disallowed paths. Cart was excluded. Meeting access URLs containing passcodes or Zoom destinations are intentionally omitted.",
+  "sitemap_source": "https://www.caiwhome.org/sitemap.xml",
+  "sitemap_entries": [
+    {
+      "url": "https://www.caiwhome.org/upcoming-schedule",
+      "lastmod": "2024-03-03"
+    },
+    {
+      "url": "https://www.caiwhome.org/links",
+      "lastmod": "2024-09-25"
+    },
+    {
+      "url": "https://www.caiwhome.org/library",
+      "lastmod": "2024-09-01"
+    },
+    {
+      "url": "https://www.caiwhome.org/chapter-12",
+      "lastmod": "2021-09-19"
+    },
+    {
+      "url": "https://www.caiwhome.org/page-1",
+      "lastmod": "2021-07-18"
+    },
+    {
+      "url": "https://www.caiwhome.org/lords-prayer",
+      "lastmod": "2021-05-23"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-2",
+      "lastmod": "2021-06-05"
+    },
+    {
+      "url": "https://www.caiwhome.org/hymn",
+      "lastmod": "2021-07-12"
+    },
+    {
+      "url": "https://www.caiwhome.org/h-1-100",
+      "lastmod": "2025-10-19"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-1",
+      "lastmod": "2025-11-05"
+    },
+    {
+      "url": "https://www.caiwhome.org/10092021",
+      "lastmod": "2021-10-10"
+    },
+    {
+      "url": "https://www.caiwhome.org/pray",
+      "lastmod": "2021-11-21"
+    },
+    {
+      "url": "https://www.caiwhome.org/h-201300",
+      "lastmod": "2022-01-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/h-301400",
+      "lastmod": "2022-01-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/h-401500",
+      "lastmod": "2022-01-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-3",
+      "lastmod": "2022-01-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-4",
+      "lastmod": "2022-01-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/h701800",
+      "lastmod": "2022-01-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/h-801",
+      "lastmod": "2022-01-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-5",
+      "lastmod": "2022-01-16"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-7",
+      "lastmod": "2022-01-23"
+    },
+    {
+      "url": "https://www.caiwhome.org/gospel-2192022",
+      "lastmod": "2022-06-05"
+    },
+    {
+      "url": "https://www.caiwhome.org/gaspel",
+      "lastmod": "2022-03-20"
+    },
+    {
+      "url": "https://www.caiwhome.org/conference",
+      "lastmod": "2025-12-22"
+    },
+    {
+      "url": "https://www.caiwhome.org/directions",
+      "lastmod": "2025-01-08"
+    },
+    {
+      "url": "https://www.caiwhome.org/weekly-schedule",
+      "lastmod": "2025-11-07"
+    },
+    {
+      "url": "https://www.caiwhome.org/152482094454",
+      "lastmod": "2024-01-03"
+    },
+    {
+      "url": "https://www.caiwhome.org/memorial",
+      "lastmod": "2024-01-19"
+    },
+    {
+      "url": "https://www.caiwhome.org/colossians",
+      "lastmod": "2024-01-22"
+    },
+    {
+      "url": "https://www.caiwhome.org/brother-jim-zhang",
+      "lastmod": "2024-01-25"
+    },
+    {
+      "url": "https://www.caiwhome.org/wccc",
+      "lastmod": "2024-02-15"
+    },
+    {
+      "url": "https://www.caiwhome.org/bible",
+      "lastmod": "2024-08-30"
+    },
+    {
+      "url": "https://www.caiwhome.org/introduction",
+      "lastmod": "2024-08-04"
+    },
+    {
+      "url": "https://www.caiwhome.org/god-our-father-in-heaven",
+      "lastmod": "2024-08-17"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-56",
+      "lastmod": "2024-08-04"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-24",
+      "lastmod": "2024-08-04"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-75",
+      "lastmod": "2024-08-04"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-77",
+      "lastmod": "2024-08-10"
+    },
+    {
+      "url": "https://www.caiwhome.org/269666924268-1",
+      "lastmod": "2024-08-10"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-42",
+      "lastmod": "2024-08-17"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-40",
+      "lastmod": "2024-08-25"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-63",
+      "lastmod": "2024-08-30"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-38",
+      "lastmod": "2024-08-30"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-45",
+      "lastmod": "2024-09-08"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-89",
+      "lastmod": "2024-09-10"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-78",
+      "lastmod": "2024-10-06"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-8",
+      "lastmod": "2024-09-29"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-62",
+      "lastmod": "2024-10-13"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-81",
+      "lastmod": "2024-10-13"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-95",
+      "lastmod": "2024-10-17"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-71",
+      "lastmod": "2024-10-17"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-22",
+      "lastmod": "2024-11-03"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-9",
+      "lastmod": "2024-11-10"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-41",
+      "lastmod": "2024-12-07"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-89",
+      "lastmod": "2024-12-22"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page",
+      "lastmod": "2024-12-29"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-451",
+      "lastmod": "2025-01-05"
+    },
+    {
+      "url": "https://www.caiwhome.org/messages",
+      "lastmod": "2026-06-18"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-53",
+      "lastmod": "2025-01-19"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-452",
+      "lastmod": "2025-02-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-52",
+      "lastmod": "2025-02-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-66",
+      "lastmod": "2025-02-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-51",
+      "lastmod": "2025-02-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-67",
+      "lastmod": "2025-02-15"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-92",
+      "lastmod": "2025-02-15"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-93",
+      "lastmod": "2025-02-15"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-19",
+      "lastmod": "2025-02-15"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-16",
+      "lastmod": "2025-02-16"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-57",
+      "lastmod": "2025-02-16"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-82",
+      "lastmod": "2025-02-16"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-73",
+      "lastmod": "2025-03-02"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-65",
+      "lastmod": "2025-03-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-46",
+      "lastmod": "2025-03-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-84",
+      "lastmod": "2025-03-09"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-37",
+      "lastmod": "2025-10-19"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-83",
+      "lastmod": "2025-11-05"
+    },
+    {
+      "url": "https://www.caiwhome.org/sunday-messages",
+      "lastmod": "2025-10-22"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-36",
+      "lastmod": "2025-12-07"
+    },
+    {
+      "url": "https://www.caiwhome.org/new-page-21",
+      "lastmod": "2025-11-16"
+    },
+    {
+      "url": "https://www.caiwhome.org/announcements",
+      "lastmod": "2025-12-07"
+    },
+    {
+      "url": "https://www.caiwhome.org/gospel-blog",
+      "lastmod": "2026-05-13"
+    }
+  ],
+  "pages": [
+    {
+      "source_url": "https://www.caiwhome.org/",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/",
+      "title": "Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "og:image": "http://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/5eb9026d4a67d3004862790a/1589183088006/8C850760-2226-42D8-9178-A4B8F589A5D6.jpeg?format=1500w"
+        }
+      ],
+      "social_images": [
+        "http://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/5eb9026d4a67d3004862790a/1589183088006/8C850760-2226-42D8-9178-A4B8F589A5D6.jpeg?format=1500w"
+      ],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/10092021",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/10092021",
+      "title": "10/09/2021 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/10092021#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/152482094454",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/152482094454",
+      "title": "我要认识他 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/152482094454#_ftn1",
+        "https://www.caiwhome.org/152482094454#_ftn2",
+        "https://www.caiwhome.org/152482094454#_ftn3",
+        "https://www.caiwhome.org/152482094454#_ftn4",
+        "https://www.caiwhome.org/152482094454#_ftnref1",
+        "https://www.caiwhome.org/152482094454#_ftnref2",
+        "https://www.caiwhome.org/152482094454#_ftnref3",
+        "https://www.caiwhome.org/152482094454#_ftnref4",
+        "https://www.caiwhome.org/152482094454#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182",
+        "https://www.spurgeon.org/resource-library/sermons/do-you-know-him/",
+        "https://www.wikiwand.com/en/Andrew_Reed_(minister)",
+        "https://www.wikiwand.com/en/Samuel_Rutherford",
+        "https://www.wikiwand.com/zh-tw/%E6%9C%B1%E5%A1%9E%E4%BD%A9%C2%B7%E5%8A%A0%E9%87%8C%E6%B3%A2%E7%AC%AC"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/269666924268-1",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/269666924268-1",
+      "title": "神的独一性 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/269666924268-1#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/announcements",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/announcements",
+      "title": "Announcements — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/announcements#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/bible",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/bible",
+      "title": "Bible Foundational Class — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/bible#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/god-our-father-in-heaven",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/introduction",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-24",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/new-page-56",
+        "https://www.caiwhome.org/new-page-75",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/brother-jim-zhang",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/brother-jim-zhang",
+      "title": "Brother Jim Zhang — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/brother-jim-zhang#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/chapter-12",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/chapter-12",
+      "title": "Chapter 20-21 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/chapter-12#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182",
+        "https://www.wordproject.org/bibles/gb/04/1.htm"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/1630807546921-78RU2H7UMY8GOJVJKQVF/31C39F6D-1B2C-419C-AA66-3081EB5BD7C8.jpeg",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/1630807546921-78RU2H7UMY8GOJVJKQVF/31C39F6D-1B2C-419C-AA66-3081EB5BD7C8.jpeg"
+        },
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/1630807215942-HWOIYMJB2YJ3X0A01RZB/5997D130-E863-4D7E-8FC5-A874F8244316.jpeg",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/1630807215942-HWOIYMJB2YJ3X0A01RZB/5997D130-E863-4D7E-8FC5-A874F8244316.jpeg"
+        }
+      ],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/colossians",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/colossians",
+      "title": "COLOSSIANS — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/colossians#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.caiwhome.org/brother-jim-zhang",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/conference",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/conference",
+      "title": "2025 Year-End Conference — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/conference#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": [
+        {
+          "title": "2025-12-19 Ted Peng Progress and Joy in Faith Chapter 1.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/6949787bd0c82f102e9acf39/1766422821259/2025-12-19+Ted+Peng+Progress+and+Joy+in+Faith+Chapter+1.m4a"
+        },
+        {
+          "title": "2025-12-20 Ted Peng Let this Mind be in you Chapter 2.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/694977f5cdf61c5b93eec0cb/1766422629939/2025-12-20+Ted+Peng+Let+this+Mind+be+in+you+Chapter+2.m4a"
+        },
+        {
+          "title": "2025-12-20 Ted Peng That I may know Him Chapter 3.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69497dfd4808de528d13c5d8/1766424213830/2025-12-20+Ted+Peng+That+I+may+know+Him+Chapter+3.m4a"
+        },
+        {
+          "title": "2025-12-21 Ted Peng Rejoice in the Lord Chapter 4.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69497ef8ad885b117b0ee5d4/1766424454376/2025-12-21+Ted+Peng+Rejoice+in+the+Lord+Chapter+4.m4a"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.caiwhome.org/directions",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/directions",
+      "title": "Directions — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/directions#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/gaspel",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/gaspel",
+      "title": "Gospel — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/gaspel#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/82af4a64-d0c1-4210-8eb3-03779f2eed04/D5FFBAE2-0973-46E3-8433-6EBB959C544F.jpeg",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/82af4a64-d0c1-4210-8eb3-03779f2eed04/D5FFBAE2-0973-46E3-8433-6EBB959C544F.jpeg"
+        }
+      ],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/god-our-father-in-heaven",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/god-our-father-in-heaven",
+      "title": "God - Our Father In Heaven — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/god-our-father-in-heaven#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/269666924268-1",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/new-page-42",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://1802261014.rsc.cdn77.org/wp-content/uploads/%E8%AA%8D%E8%AD%98%E7%A5%9E-%E5%B7%B4%E5%88%BB.pdf",
+        "https://church-in-wstminster.squarespace.com/god-our-father-in-heaven",
+        "https://www.facebook.com/profile.php?id=61554893282182",
+        "https://youtu.be/texY2-MET9Q?si=TJE1aXZ9dMi-ntKh"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/gospel-2192022",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/gospel-2192022",
+      "title": "Gospel 3/19/2022 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/gospel-2192022#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/gospel-blog",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/gospel-blog",
+      "title": "Gospel Blog — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/gospel-blog#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/h-1-100",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/h-1-100",
+      "title": "Hymn — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/h-1-100#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/h-301400",
+        "https://www.caiwhome.org/h-401500",
+        "https://www.caiwhome.org/h-801",
+        "https://www.caiwhome.org/h701800",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-3",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/new-page-4",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH003_DOXOLOGY_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH018_LOVE_DIVINE_ALL_LOVES_EXCELLING_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH021_FATHER_TWAS_THY_LOVE_THAT_KNEW_US_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH023_WHAT_WAS_IT_BLESSED_GOD_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH033_TO_GOD_BE_THE_GLORY_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH035_WE_PRAISE_THEE_O_GOD_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH076_LORD_WE_TREASURE_WITH_AFFECTION_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH452_GREAT_IS_THY_FAITHFULNESS_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://www.caiwhome.org/h-201300",
+        "https://www.caiwhome.org/new-page-1",
+        "https://www.facebook.com/profile.php?id=61554893282182",
+        "https://www.svca.cc/ppt/H002_HOLY_HOLY_HOLY_bg1.ppt",
+        "https://www.svca.cc/ppt/H004_PRAISE_YE_THE_FATHER_bg1.ppt"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/h-201300",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/h-201300",
+      "title": "H 201-300 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/h-201300#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/h-301400",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/h-301400",
+      "title": "H 301-400 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/h-301400#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/h-401500",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/h-401500",
+      "title": "H 401-500 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/h-401500#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/h-801",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/h-801",
+      "title": "H 801- — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/h-801#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/h701800",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/h701800",
+      "title": "H 701-800 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/h701800#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/hebrews-",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-36",
+      "title": "Outline of Hebrews — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/hebrews-#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/f3e07ad9-8899-4fbd-85de-ce1e3ab46290/photo_4929701361876667212_y.jpg",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/f3e07ad9-8899-4fbd-85de-ce1e3ab46290/photo_4929701361876667212_y.jpg"
+        }
+      ],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/hymn",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/hymn",
+      "title": "H — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/hymn#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/introduction",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/introduction",
+      "title": "Introduction   前言 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/introduction#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/library",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/library",
+      "title": "Library — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/library#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "http://www.cclw.net/gospel/explore/rszl/index.html",
+        "http://www.seattlechristianassembly.org/biblestudy_msgs_ch.html",
+        "http://www.wellsofgrace.com/books/spiritual/lczy/index.html",
+        "https://drive.google.com/file/d/16Z6tYkiUm99alQgR9dqIno1RWamGJhwl/view?usp=sharing",
+        "https://drive.google.com/file/d/1KqSfCEAbC_f83ExctDwtOUzPjpbVgP6S/view?usp=sharing",
+        "https://drive.google.com/file/d/1QxnmLf6E3Y19yQip0kIg_bgv_l2xztNl/view?usp=sharing",
+        "https://drive.google.com/file/d/1sSfi6jTPayJeoSmxtwwRgJ_e5Xdtt68y/view?usp=sharing",
+        "https://drive.google.com/file/d/1sq91k4J_4SQ-HtQQPY1B8d8pqBo8OPcq/view?usp=sharing",
+        "https://newchristianbiblestudy.org",
+        "https://www.biblegateway.com/versions/American-Standard-Version-ASV-Bible/#booklist",
+        "https://www.caiwhome.org/152482094454",
+        "https://www.churchinmarlboro.org/christdigest/MACKINTOSH%20PENTATEUCH.pdf",
+        "https://www.facebook.com/profile.php?id=61554893282182",
+        "https://www.wordproject.org/bibles/gb/",
+        "https://www.youtube.com/channel/UCSK9NSk5bxOnJB9yNsuqyjQ",
+        "https://www.youtube.com/playlist?list=PLVR2qEqoqhobWHPWhBiOK9cI9O9ecRPkb",
+        "https://youtu.be/16K30m2LZhw",
+        "https://youtu.be/9qtT5q2VJz8",
+        "https://youtu.be/C2JgFIMuqfY",
+        "https://youtu.be/p8knKYVI-Lk",
+        "https://youtu.be/qZssz0_DyAU"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/links",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/links",
+      "title": "Links — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/links#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "http://seattlechristianassembly.org/biblestudy_msgs.html",
+        "http://w.churchinmarlboro.org/2009/References.htm",
+        "https://biblehub.com/strongs.htm",
+        "https://biblepoint.net/index-t.htm#gsc.tab=0",
+        "https://christiantapeministry.com/#/",
+        "https://www.abibletool.com/",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/library",
+        "https://www.christianfamilyconference.org/",
+        "https://www.facebook.com/profile.php?id=61554893282182",
+        "https://www.svca.cc/music-worship/hymnary.html",
+        "https://www.westcoastchristianconference.com/",
+        "https://www.youtube.com/@SallyShi/featured"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/lords-prayer",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/lords-prayer",
+      "title": "Lord's Prayer — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/lords-prayer#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://abibletool.com/word/10105-1.htm#83754",
+        "https://abibletool.com/word/10964-20.htm#444490",
+        "https://abibletool.com/word/10964-20.htm#444491",
+        "https://abibletool.com/word/10964-20.htm#444492",
+        "https://abibletool.com/word/10964-20.htm#444493",
+        "https://abibletool.com/word/11259-4.htm#503269",
+        "https://abibletool.com/word/11284-143.htm#545615",
+        "https://abibletool.com/word/11284-143.htm#545616",
+        "https://abibletool.com/word/11284-143.htm#545617",
+        "https://abibletool.com/word/11284-143.htm#545618",
+        "https://abibletool.com/word/11284-143.htm#545619",
+        "https://abibletool.com/word/11284-143.htm#545620",
+        "https://abibletool.com/word/11846-8.htm#698427",
+        "https://abibletool.com/word/12298-3.htm#800698",
+        "https://abibletool.com/word/12401-9.htm#842612",
+        "https://abibletool.com/word/12828-5.htm#984093",
+        "https://abibletool.com/word/12828-5.htm#984095",
+        "https://abibletool.com/word/12875-10.htm#1015614",
+        "https://abibletool.com/word/12923-38.htm#1028546",
+        "https://abibletool.com/word/12983-77.htm#1064412",
+        "https://abibletool.com/word/12983-77.htm#1064413",
+        "https://abibletool.com/word/12983-77.htm#1064414",
+        "https://abibletool.com/word/13146-37.htm#1102328",
+        "https://abibletool.com/word/13146-37.htm#1102329",
+        "https://abibletool.com/word/13179-51.htm#1121422",
+        "https://abibletool.com/word/13179-51.htm#1121423",
+        "https://abibletool.com/word/13452-17.htm#1204651",
+        "https://abibletool.com/word/13617-60.htm#1275856",
+        "https://abibletool.com/word/13858-2.htm#1342828",
+        "https://abibletool.com/word/13858-2.htm#1342829",
+        "https://abibletool.com/word/14414.htm",
+        "https://abibletool.com/word/14415.htm",
+        "https://abibletool.com/word/2420-1.htm#136169",
+        "https://abibletool.com/word/3763-2.htm#163515",
+        "https://abibletool.com/word/3801-10.htm#163516",
+        "https://abibletool.com/word/3806-1.htm#6209",
+        "https://abibletool.com/word/3924-4.htm#163517",
+        "https://abibletool.com/word/4927-1.htm#180903",
+        "https://abibletool.com/word/5112-9.htm#180904",
+        "https://abibletool.com/word/549-1.htm#103370",
+        "https://abibletool.com/word/5926-3.htm#199693",
+        "https://abibletool.com/word/6227-20.htm#1975",
+        "https://abibletool.com/word/6344-1.htm#352516",
+        "https://abibletool.com/word/6914-3.htm#219793",
+        "https://abibletool.com/word/6942-29.htm#219794",
+        "https://abibletool.com/word/792-1.htm#103371",
+        "https://abibletool.com/word/794-1.htm#103372",
+        "https://abibletool.com/word/8201-1.htm#237983",
+        "https://abibletool.com/word/8343-2.htm#4401",
+        "https://abibletool.com/word/8427-3.htm#384590",
+        "https://abibletool.com/word/8427-3.htm#43665",
+        "https://abibletool.com/word/8427-3.htm#43666",
+        "https://abibletool.com/word/8844-42.htm#264466",
+        "https://abibletool.com/word/9164-19.htm#264467",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/memorial",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/memorial",
+      "title": "Memorial — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/memorial#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182",
+        "https://www.rosehills.com/obituaries/whittier-ca/tim-louie-11624790?utm_medium=text&utm_source=obit_link"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/5a19e9b5-41b2-44ac-9480-18780644dc6d/Image_20240119114332.jpg",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/5a19e9b5-41b2-44ac-9480-18780644dc6d/Image_20240119114332.jpg"
+        }
+      ],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/messages",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/messages",
+      "title": "Messages — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/messages#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/68a483dea6f3b564e8dca8c0/1755612208062/2025-08-17+Brother+Gao+Created+for+the+Glory+of+God.m4a",
+        "https://www.facebook.com/profile.php?id=61554893282182",
+        "https://www.westcoastchristianconference.com/2025/default.php"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/053fd058-84f7-42eb-b418-eced39eb0213/Screenshot+2025-08-19+065529.png",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/053fd058-84f7-42eb-b418-eced39eb0213/Screenshot+2025-08-19+065529.png"
+        }
+      ],
+      "social_images": [],
+      "audio": [
+        {
+          "title": "2026-06-14 Jim Zhang Hebrews Review.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/6a335a73ecdd7216cec0b4df/1781750406994/2026-06-14+Jim+Zhang+Hebrews+Review.m4a"
+        },
+        {
+          "title": "2026-06-07 Benjamin Lo Hebrews 13.20-25 God of Peace.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/6a335a3fd38e9f66a3c7e12d/1781750366416/2026-06-07+Benjamin+Lo+Hebrews+13.20-25+God+of+Peace.m4a"
+        },
+        {
+          "title": "2026-05-24 Gospel Meeting.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/6a1f9ab1869de706a86a18b3/1780456176086/2026-05-24+Gospel+Meeting.m4a"
+        },
+        {
+          "title": "2026-05-17 John Oteng-Nyame Hebrews 13.1-6 Love_s Relationship Going Forward.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/6a0e703a2c1a2f6d1e802f12/1779331223447/2026-05-17+John+Oteng-Nyame+Hebrews+13.1-6+Love_s+Relationship+Going+Forward.m4a"
+        },
+        {
+          "title": "2026-02-08 Craig Lewis Hebrews 6  Going on.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/6a03e67fdd7f6f10d11cdac2/1778640610945/2026-02-08+Craig+Lewis+Hebrews+6++Going+on.m4a"
+        },
+        {
+          "title": "2026-05-03 Benjamin Lo Hebrews 12.1-17 Run the Race, Looking away, Consider Jesus.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69fabbadd5b4473c1813a3ac/1778039826934/2026-05-03+Benjamin+Lo+Hebrews+12.1-17+Run+the+Race%2C+Looking+away%2C+Consider+Jesus.m4a"
+        },
+        {
+          "title": "2026-04-26 Jim Zhang Hebrews 11 The living of Faith in the real world.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69fabac31c852f5eec94fa45/1781664970968/2026-04-26+Jim+Zhang+Hebrews+11+The+living+of+Faith+in+the+real+world.m4a"
+        },
+        {
+          "title": "2026-04-19 Rpbert Hines Hebrews 11 Faith (1).m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69faba46c2968e5144ede873/1781664970976/2026-04-19+Rpbert+Hines+Hebrews+11+Faith+%281%29.m4a"
+        },
+        {
+          "title": "2026-04-12 Benjamin Lo Hebrews 10-32-39 Do not shrink back (1).m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69fab996d5b4473c1812df1f/1781664970983/2026-04-12+Benjamin+Lo+Hebrews+10-32-39+Do+not+shrink+back+%281%29.m4a"
+        },
+        {
+          "title": "2026-3-29 Jim Zhang Hebrews 9-10 through 10-18.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69cc88899f2f5d0aeb6daab9/1775447033686/2026-3-29+Jim+Zhang+Hebrews+9-10+through+10-18.m4a"
+        },
+        {
+          "title": "2026.03.22-Dave Clark-Gospel Meeting.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69cc880563a37d20f8fed585/1775447033694/2026.03.22-Dave+Clark-Gospel+Meeting.m4a"
+        },
+        {
+          "title": "2026-03-15 Craig Lewis Hebrews 9-1-10 Go in by Prayer to the Holy of Holies (1).m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69bb61e6dbbd3331f157d09a/1775447033701/2026-03-15+Craig+Lewis+Hebrews+9-1-10+Go+in+by+Prayer+to+the+Holy+of+Holies+%281%29.m4a"
+        },
+        {
+          "title": "2024.03.31 Tom Ceaser The Word of God",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69b22fe5d54b83398d8b6b9a/1775447033711/2024.03.31+Tom+Ceaser+The+Word+of+God.mp3"
+        },
+        {
+          "title": "2026-03-01 Benjamin Lo Hebrews 8 Ministry of Jesus Christ our High Priest.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69a64ef03b78116c08174ecd/1775447033717/2026-03-01+Benjamin+Lo+Hebrews+8+Ministry+of+Jesus+Christ+our+High+Priest.m4a"
+        },
+        {
+          "title": "2026-02-22 James Zhang Heb 7 Jesus Christ Mediator of the New Covenent.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69a64e20658ec30aa94fe0f0/1771905455103/2026-02-22+James+Zhang+Heb+7+Jesus+Christ+Mediator+of+the+New+Covenent.m4a"
+        },
+        {
+          "title": "2026-02-15 Craig Lewis The Heart Hebrews 4 & 6.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69a64e20658ec30aa94fe0f2/1771388219057/2026-02-15+Craig+Lewis+The+Heart+Hebrews+4+%26+6.m4a"
+        },
+        {
+          "title": "2026-02-08 Craig Lewis Hebrews 6  Going on.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69a64e20658ec30aa94fe0f4/1771387934477/2026-02-08+Craig+Lewis+Hebrews+6++Going+on.m4a"
+        },
+        {
+          "title": "2026-02-01 Benjamin Lo Hebrews 5;12-14 Grow up Mature in Christ.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69a64e20658ec30aa94fe0f6/1770602076685/2026-02-01+Benjamin+Lo+Hebrews+5%3B12-14+Grow+up+Mature+in+Christ.m4a"
+        },
+        {
+          "title": "2026-01-25 Jerry Woodruff Heb 4-14 - 5-10 Jesus Our Great High Priest.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69893ab21adae41bc268be33/1769746227419/2026-01-25+Jerry+Woodruff+Heb+4-14+-+5-10+Jesus+Our+Great+High+Priest.m4a"
+        },
+        {
+          "title": "2026-01-18 Sam Kumi Don_t come short of God_s Promise Rest by hardening your hearts.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69893ab21adae41bc268be35/1769746072772/2026-01-18+Sam+Kumi+Don_t+come+short+of+God_s+Promise+Rest+by+hardening+your+hearts.m4a"
+        },
+        {
+          "title": "2026-01-11 Jim Zhang Consider Christ the Son of God Ruling God_s House (1).m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69893ab21adae41bc268be37/1768362309332/2026-01-11+Jim+Zhang+Consider+Christ+the+Son+of+God+Ruling+God_s+House+%281%29.m4a"
+        },
+        {
+          "title": "2026-01-04 Godwin Sun Citizens of Heaven (1).m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/69893ab21adae41bc268be39/1767573177018/2026-01-04+Godwin+Sun+Citizens+of+Heaven+%281%29.m4a"
+        },
+        {
+          "title": "2025-12-14 Robert Hind Hebrews 2 God_s Love to make us Son_s.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/6949fad4557d9c692e4d2733/1766456142540/2025-12-14+Robert+Hind+Hebrews+2+God_s+Love+to+make+us+Son_s.m4a"
+        },
+        {
+          "title": "2025-12-07 Benjamin Lo Mercy from the High Priest.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/693e429743be063ad61e0869/1765688193409/2025-12-07+Benjamin+Lo+Mercy+from+the+High+Priest.m4a"
+        },
+        {
+          "title": "2025-11-16 Philip Tong Do not Drift Away.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/695b06099882f377b1efa273/1767572433017/2025-11-16+Philip+Tong+Do+not+Drift+Away.m4a"
+        },
+        {
+          "title": "2025-11-09 James Zhang Heb1+4-14 The Name Above every Name.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/695b06099882f377b1efa275/1767572433030/2025-11-09+James+Zhang+Heb1%2B4-14+The+Name+Above+every+Name.m4a"
+        },
+        {
+          "title": "2025-11-02 Eric Wu Good and Faithful servent (1).m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/695b06099882f377b1efa277/1767572433039/2025-11-02+Eric+Wu+Good+and+Faithful+servent+%281%29.m4a"
+        },
+        {
+          "title": "2025-10-19 Craig Lewis Hebrews 1.1-2 God wants to speak to us.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/68f84a30c0d5934f2094bf9a/1761102500599/2025-10-19+Craig+Lewis+Hebrews+1.1-2+God+wants+to+speak+to+us.m4a"
+        },
+        {
+          "title": "2025-10-12 Jim Zhang Introduction to Hebrews (2).m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/68f848f2e868596ba3f8180c/1761102135798/2025-10-12+Jim+Zhang+Introduction+to+Hebrews+%282%29.m4a"
+        },
+        {
+          "title": "2025.10.05 - Brother Lo - Christ Our Prophet.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/68f847ad227fd8726c1f7b62/1761101830899/2025.10.05+-+Brother+Lo+-+Christ+Our+Prophet.m4a"
+        },
+        {
+          "title": "2025-09-21 Brother Gao - Created for the Glory of God.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/68f84f0fc90ee06b70b5ac1e/1761103730589/2025-09-21+Brother+Gao+-+Created+for+the+Glory+of+God.m4a"
+        },
+        {
+          "title": "2025-09-14 Brother David Peng Forgiven!! Luke 7-47.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/68f850937ec9581c6741f78b/1761104151152/2025-09-14+Brother+David+Peng+Forgiven%21%21+Luke+7-47.m4a"
+        },
+        {
+          "title": "2025.09.07 Brother Lo The Lord our Prophet, Priest and King to Expressing the God of Glory.m4a",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/68f84c8c6b5beb11a7a58554/1761103145406/2025.09.07+Brother+Lo+The+Lord+our+Prophet%2C+Priest+and+King+to+Expressing+the+God+of+Glory.m4a"
+        },
+        {
+          "title": "2025-08-17 Brother Gao: Created for the Glory of God",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/68a483dea6f3b564e8dca8c0/1755612208062/2025-08-17+Brother+Gao+Created+for+the+Glory+of+God.m4a"
+        },
+        {
+          "title": "2025.01.19 Craig Lewis Know God in Real Way",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/67c91cea9309be2f9eac302c/1741233545200/2025.01.19+Craig+Lewis+Know+God+in+Real+Way.mp3"
+        },
+        {
+          "title": "2025.01.12 Bro Craig Attack of the Enemy",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/67c91b708fa6110dbf3754fe/1741233183274/2025.01.12+Bro+Craig+Attack+of+the+Enemy.mp3"
+        },
+        {
+          "title": "2025.01.05 Young People retreat fellowship and Bro. Lo_s fellowship ",
+          "url": "https://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/677e0292b0eec45d921d956c/1736311632300/2025.01.05+Young+People+retreat+fellowship+and+Bro.+Lo_s+fellowship+.mp3"
+        }
+      ]
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page",
+      "title": "一路蒙救主引领 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-1",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-1",
+      "title": "H 101-200 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-1#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-16",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-16",
+      "title": "提多书 (1) — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-16#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-19",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-19",
+      "title": "Structure of the Book of Titus — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-19#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-2",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-2",
+      "title": "Gospel 6/5/2021 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-2#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-21",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-21",
+      "title": "Selected Hymn — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-21#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://drive.google.com/file/d/1evvahqM88g5Viojolx_ay-CWjaVr6eBO/view?usp=sharing",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/375f27b0-fa3c-42b8-8eb0-94f609c71085/Screenshot+2025-11-16+085723.png",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/375f27b0-fa3c-42b8-8eb0-94f609c71085/Screenshot+2025-11-16+085723.png"
+        }
+      ],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-22",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-22",
+      "title": "教会对圣徒的重要性 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-22#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-24",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-24",
+      "title": "Lord Jesus Christ - Complete Redemption — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-24#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-3",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-3",
+      "title": "H 501-600 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-3#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-36",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-36",
+      "title": "Outline of Hebrews — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-36#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/f3e07ad9-8899-4fbd-85de-ce1e3ab46290/photo_4929701361876667212_y.jpg",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/f3e07ad9-8899-4fbd-85de-ce1e3ab46290/photo_4929701361876667212_y.jpg"
+        }
+      ],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-37",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-37",
+      "title": "New Page — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-37#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-38",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-38",
+      "title": "人是神的创造物 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-38#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-4",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-4",
+      "title": "H 601-700 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-4#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-40",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-40",
+      "title": "三位一体的神与我们的关系 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-40#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-41",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-41",
+      "title": "基督再来 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-41#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-42",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-42",
+      "title": "三位一体 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-42#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-45",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-45",
+      "title": "全然败坏的人 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-45#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-451",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-451",
+      "title": "受洗 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-451#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-452",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-452",
+      "title": "第二周 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-452#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-46",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-46",
+      "title": "提多书 (3) — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-46#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-5",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-5",
+      "title": "New Page — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-5#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-51",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-51",
+      "title": "第四周 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-51#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-52",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-52",
+      "title": "第一周 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-52#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-53",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-53",
+      "title": "New Page — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-53#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-56",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-56",
+      "title": "The human nature is utterly corrupt — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-56#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-57",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-57",
+      "title": "Book of Titus (1) — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-57#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-62",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-62",
+      "title": "神的预定和拣选 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-62#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-63",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-63",
+      "title": "New Page — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-63#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-65",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-65",
+      "title": "提多书 (2) — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-65#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-66",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-66",
+      "title": "第三周 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-66#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-67",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-67",
+      "title": "提多书背景 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-67#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://gamma.app/docs/-fijjkv4wfndkjnd",
+        "https://gamma.app/docs/-yzv7lmiosn10prx",
+        "https://gamma.app/docs/2-3-09pwviwzeeyluoo",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-7",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-7",
+      "title": "New Page — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-7#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/c702235a-a91f-4ab9-add3-0554756d2470/32F98A51-55AB-4C29-A1ED-E44D06D3DFA2.jpeg",
+          "alt": "",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/c702235a-a91f-4ab9-add3-0554756d2470/32F98A51-55AB-4C29-A1ED-E44D06D3DFA2.jpeg"
+        }
+      ],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-71",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-71",
+      "title": "Jesus Christ: The Perfect Fulfillment as Prophet, High Priest, and King — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-71#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-73",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-73",
+      "title": "Book of Titus (2) — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-73#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-75",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-75",
+      "title": "The Comforter - The Work of the Holy Spirit — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-75#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-77",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-77",
+      "title": "荣耀的盼望 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-77#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-78",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-78",
+      "title": "耶稣基督的救恩 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-78#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-8",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-8",
+      "title": "理解罪的代价与救恩 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-8#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-81",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-81",
+      "title": "New Page — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-81#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-82",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-82",
+      "title": "救恩的根基与教会的秩序 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-82#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-83",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-83",
+      "title": "H 1-100 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-83#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://docs.google.com/presentation/d/12NPwDYCQQssnv0zx1hc2bhvVLmewxgVW/edit?usp=sharing&ouid=107118122936564656524&rtpof=true&sd=true",
+        "https://docs.google.com/presentation/d/16_KuwP-VYI2_g7nF1GVzmQ9fJR5dCcss/edit?usp=sharing&ouid=107118122936564656524&rtpof=true&sd=true",
+        "https://docs.google.com/presentation/d/1GAt2z5Gl7MX-t453QGljWJjaMqRyYAWr/edit?usp=sharing&ouid=107118122936564656524&rtpof=true&sd=true",
+        "https://docs.google.com/presentation/d/1HUlSOzktjm6VisuoTPG0GzdXVzCZCSOn/edit?usp=sharing&ouid=107118122936564656524&rtpof=true&sd=true",
+        "https://docs.google.com/presentation/d/1XlIypDC5nu6vSrpuPSPDiu2M5usf57Ir/edit?usp=sharing&ouid=107118122936564656524&rtpof=true&sd=true",
+        "https://docs.google.com/presentation/d/1hH-KXIfZH9azGF-da1wDLYmJEMui3Kr6/edit?usp=sharing&ouid=107118122936564656524&rtpof=true&sd=true",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH021_FATHER_TWAS_THY_LOVE_THAT_KNEW_US_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH033_TO_GOD_BE_THE_GLORY_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH035_WE_PRAISE_THEE_O_GOD_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.svca.cc%2Fppt%2FH452_GREAT_IS_THY_FAITHFULNESS_bg1.ppt&wdOrigin=BROWSELINK",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-84",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-84",
+      "title": "Book of Titus (3) — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-84#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-89",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-89",
+      "title": "New Page — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-89#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-9",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-9",
+      "title": "教会的象征 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-9#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-92",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-92",
+      "title": "Background of the Book of Titus — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-92#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://gamma.app/docs/2-3-yhhq8fmazvs02ju",
+        "https://gamma.app/docs/Challenges-and-Solutions-An-Analysis-of-the-Church-in-Crete-from--rzyrrn2xeweu6po",
+        "https://gamma.app/docs/The-Corinthian-Church-Problems-and-Pauls-Responses-1l4ka3crdlmgmrh?mode=present#card-bcy06pxwvg5ijse",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-93",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-93",
+      "title": "提多书整体结构 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-93#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/new-page-95",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/new-page-95",
+      "title": "耶稣基督：受膏的先知、大祭司与君王的完美实现 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/new-page-95#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/page-1",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/page-1",
+      "title": "New Page — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/page-1#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/pray",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/pray",
+      "title": "Pray — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/pray#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://abibletool.com/book/66-5.htm#8",
+        "https://abibletool.com/book/66-8.htm#3",
+        "https://abibletool.com/book/66-8.htm#4",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/sunday-messages",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/sunday-messages",
+      "title": "Sunday Messages — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/sunday-messages#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/upcoming-schedule",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/upcoming-schedule",
+      "title": "Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/upcoming-schedule#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "og:image": "http://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/5eb9026d4a67d3004862790a/1589183088006/8C850760-2226-42D8-9178-A4B8F589A5D6.jpeg?format=1500w"
+        }
+      ],
+      "social_images": [
+        "http://static1.squarespace.com/static/5eb8f79a74ce79608dd5d4c9/t/5eb9026d4a67d3004862790a/1589183088006/8C850760-2226-42D8-9178-A4B8F589A5D6.jpeg?format=1500w"
+      ],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/vision",
+      "retrieved_on": "2026-10-02",
+      "http_status": 404,
+      "final_url": "https://www.caiwhome.org/vision",
+      "title": "Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/vision#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/search",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [
+        {
+          "og:image": ""
+        }
+      ],
+      "social_images": [
+        ""
+      ],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/wccc",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/wccc",
+      "title": "WCCC 2024 — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/wccc#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 0,
+      "images": [],
+      "social_images": [],
+      "audio": []
+    },
+    {
+      "source_url": "https://www.caiwhome.org/weekly-schedule",
+      "retrieved_on": "2026-10-02",
+      "http_status": 200,
+      "final_url": "https://www.caiwhome.org/weekly-schedule",
+      "title": "Weekly Schedule — Church Assembly In Westminster",
+      "links": [
+        "https://www.caiwhome.org/weekly-schedule#page",
+        "https://www.caiwhome.org/",
+        "https://www.caiwhome.org/announcements",
+        "https://www.caiwhome.org/cart",
+        "https://www.caiwhome.org/conference",
+        "https://www.caiwhome.org/directions",
+        "https://www.caiwhome.org/gospel-blog",
+        "https://www.caiwhome.org/hebrews-",
+        "https://www.caiwhome.org/links",
+        "https://www.caiwhome.org/messages",
+        "https://www.caiwhome.org/new-page-36",
+        "https://www.caiwhome.org/sunday-messages",
+        "https://www.caiwhome.org/vision",
+        "https://www.caiwhome.org/weekly-schedule",
+        "https://www.facebook.com/profile.php?id=61554893282182"
+      ],
+      "omitted_sensitive_links": 2,
+      "images": [
+        {
+          "alt": "",
+          "data-src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/28b5e167-ef96-4d27-ab42-e688fb2689e6/photo_4927449562062981901_y.jpg",
+          "src": "https://images.squarespace-cdn.com/content/v1/5eb8f79a74ce79608dd5d4c9/28b5e167-ef96-4d27-ab42-e688fb2689e6/photo_4927449562062981901_y.jpg"
+        }
+      ],
+      "social_images": [],
+      "audio": []
+    }
+  ]
+}
